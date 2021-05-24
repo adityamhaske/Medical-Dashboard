@@ -3,7 +3,7 @@
 ## Introduction
 Medical Dashboard is more of an audit trail of doctors encounters with patients. MD can be a modern way of a hospital treating the patients. MD covers past history, prescription suggested by doctors, laboratory reports. This means all vital information is residing in the system, which can be readily retrieved to help in making a timely decision.
 
-##Technologies Used
+## Technologies Used
     * DATABASE: 	MySQL database
     * Platform: 	Windows OS
     * Web based application:  HTML, CSS, JAVASCRIPT, JAVA, APACHE FRAMEWORK
